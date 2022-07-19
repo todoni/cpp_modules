@@ -4,3 +4,6 @@
 [submodule "cpp01"]
 	path = CPP01
 	url = https://github.com/todoni/CPP01.git
+[submodule "CPP02"]
+	path = CPP02
+	url = https://github.com/todoni/CPP02.git
