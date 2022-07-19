@@ -2,11 +2,11 @@
 	path = cpp00
 	url = https://github.com/todoni/cpp00.git
 [submodule "cpp01"]
-	path = CPP01
-	url = https://github.com/todoni/CPP01.git
-[submodule "CPP02"]
-	path = CPP02
-	url = https://github.com/todoni/CPP02.git
+	path = cpp01
+	url = https://github.com/todoni/cpp01.git
+[submodule "cpp02"]
+	path = cpp02
+	url = https://github.com/todoni/cpp02.git
 [submodule "cpp03"]
 	path = cpp03
 	url = https://github.com/todoni/cpp03.git
