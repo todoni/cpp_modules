@@ -18,7 +18,7 @@ public:
 	{
 		std::cout << "Player Move" << std::endl;
 	}
-	void	Trade(void)
+	void	Trade(void);
 };
 
 class Monster : public Object
