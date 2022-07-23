@@ -37,11 +37,12 @@ int	main(void)
 	int	*ptr = &k;
 
 	Object	*obj[3];
-	obj[0] = new Monster();
-	obj[1] = new Monster();
+	//Object asdf;
+
+	//obj[0] = new Monster();
+	//obj[1] = new Monster();
 	obj[2] = new Player();
-	obj[2]->Trade();
-	for(int iCnt = 0; iCnt < 3; iCnt++)
-		Move(1, 2);
+	//obj[2]->Trade();
+		obj[2]->Move(1, 2);
 	return (0);	
 }
